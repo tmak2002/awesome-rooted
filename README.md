@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tmak2002/awesome-rooted/main/logo.png" alt="Logo"/>
 </h1>
 
-<details open="open">
+<details close="close">
 <summary><h2>Table of Contents</h2></summary>
 
 1. [Root Methods](#root-methods)
