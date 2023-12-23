@@ -5,20 +5,12 @@
 <details open="open">
 <summary><h2>Table of Contents</h2></summary>
 
-- [Root Methods](#rootmethods)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Usage](#usage)
-    - [Cookiecutter template](#cookiecutter-template)
-    - [Manual setup](#manual-setup)
-    - [Variables reference](#variables-reference)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [Support](#support)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
+1. [Root Methods](#root-methods)
+2. [Apps](#apps)
+3. [Magisk Modules](#magisk-modules)
+4. [Magisk Module Repos](#magisk-module-repos)
+5. [Xposed Methods](#xposed-methods)
+6. [Xposed Modules](#xposed-methods)
 </details>
 
 ## Root Methods 
@@ -36,7 +28,7 @@
 - [Googlers Magisk Repo](https://github.com/Googlers-Repo/magisk)
 ## XPosed Methods 
 - [LSPosed](https://github.com/LSPosed/LSPosed) ~ for Android 8.1 - 14
-## XPOSED Modules 
+## Xposed Modules 
 - [AndroidFaker](https://github.com/Android1500/AndroidFaker) ~ Spoof device IDs
 - [WeiJu2](https://github.com/ikws4/WeiJu2) ~ Scripting Engine
 - [GPS Setter](https://github.com/Android1500/GpsSetter) ~ Location spoofing
