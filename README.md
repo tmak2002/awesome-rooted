@@ -8,3 +8,7 @@
 ## Magisk Module Repos 
 - [Magisk Modules Alternative Repository](https://github.com/Magisk-Modules-Alt-Repo)
 - [Googlers Magisk Repo](https://github.com/Googlers-Repo/magisk)
+## XPOSED Modules 
+- [AndroidFaker](https://github.com/Android1500/AndroidFaker) ~ Spoofing Device IDs
+- [WeiJu2](https://github.com/ikws4/WeiJu2) ~ Scripting Engine
+- 
