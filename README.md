@@ -19,4 +19,4 @@
 - [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) ~ Spoof device IDs
 - [Media Provider Manager](https://github.com/MaterialCleaner/Media-Provider-Manager) ~ An Xposed module intended to prevent media storage abuse.
 - [Notification Shade Transparency](https://github.com/AsyJAIZ/Notification-Shade-Transparency) ~ You can make elements of Notification Shade transparent with this LSPosed module.
-- 
+- [SnapEnhance](https://github.com/rhunk/SnapEnhance) ~ An Xposed module that enhances your Snapchat experience
