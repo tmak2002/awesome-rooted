@@ -2,6 +2,7 @@
 ## Root Methods 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 ## Apps 
+- [AfWall+](https://github.com/ukanth/afwall) ~ Firewall
 - [AdAway](https://github.com/AdAway/AdAway) ~ Ad Blocker
 ## Magisk Modules
 - [A1Memory](https://github.com/OneB1ank/A1Memory) ~ Android third-party memory management
