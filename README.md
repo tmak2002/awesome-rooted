@@ -1,6 +1,7 @@
 # awesome-rooted 
 ## Root Methods 
 - [Magisk](https://github.com/topjohnwu/Magisk)
+- [KernelSU](https://github.com/tiann/KernelSU)
 ## Apps 
 - [AfWall+](https://github.com/ukanth/afwall) ~ Firewall
 - [AdAway](https://github.com/AdAway/AdAway) ~ Ad Blocker
