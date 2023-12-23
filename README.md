@@ -1,4 +1,26 @@
-# awesome-rooted 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/tmak2002/awesome-rooted/main/logo.png" alt="Logo"/>
+</h1>
+
+<details open="open">
+<summary><h2>Table of Contents</h2></summary>
+
+- [Root Methods](#rootmethods)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+    - [Cookiecutter template](#cookiecutter-template)
+    - [Manual setup](#manual-setup)
+    - [Variables reference](#variables-reference)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+</details>
+
 ## Root Methods 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 - [KernelSU](https://github.com/tiann/KernelSU)
