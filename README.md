@@ -19,6 +19,7 @@
 ## Apps 
 - [AfWall+](https://github.com/ukanth/afwall) ~ Firewall
 - [AdAway](https://github.com/AdAway/AdAway) ~ Ad Blocker
+- [Neo Backup](https://github.com/NeoApplications/Neo-Backup) ~ Backup
 ## Magisk Modules
 - [A1Memory](https://github.com/OneB1ank/A1Memory) ~ Android third-party memory management
 - [MagiskFrida](https://github.com/ViRb3/magisk-frida) ~ Run frida-server on boot
